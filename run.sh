@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python FITE.py >./tw17_bert_base_output_5e5.log 2>&1 &
