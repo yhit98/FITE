@@ -1,3 +1,6 @@
+[![Paper](https://img.shields.io/badge/paper-emnlp.main.219-B31B1B.svg)](https://aclanthology.org/2022.emnlp-main.219/)
+[![Conference](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/events/emnlp-2022/)
+
 # FITE
 This repo is the official implementation of "Face-Sensitive Image-to-Emotional-Text Cross-modal Translation for Multimodal Aspect-based Sentiment Analysis"
 
